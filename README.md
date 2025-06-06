@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe (Unity + Minimax AI)
+# 🎮 Tic Tac Toe 
 
 Este es un proyecto de **Tic Tac Toe (Tres en Raya)** desarrollado en **Unity**, que utiliza el **algoritmo Minimax** para implementar una inteligencia artificial que juega de forma óptima. El jugador humano compite contra la IA, haciendo clic en la pantalla para colocar su ficha.
 
